@@ -24,8 +24,8 @@
 - 🌱 Learning and exploring **Next.js**, **GraphQL**, and **TypeScript**
 - 🧩 I love solving real-world problems through code
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Express**, and **REST APIs**
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Reach me at: [My Email](hammaddeveloper9@gmail.com)
+- 🌐 Portfolio: [My-portfolio-Link](https://hammadahmed05.github.io/About-Me/)
 
 ---
 ## 💻 Tech Stack:
